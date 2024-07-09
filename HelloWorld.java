@@ -5,7 +5,7 @@ public class HelloWorld {
     System.out.println("Hello, tomorrow is the wednesday."); 
      System.out.println("Hello, tomorrow is the thurday.");
    system.out.println("Hello, tomorrow is the thurday.");
-
+   system.out.println("Hello, tomorrow is the thurday.");
 
   }
 }
